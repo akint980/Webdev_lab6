@@ -1,5 +1,6 @@
 body {
   background-image: url("../images/black.jpg");
+  backgroud-size: cover;
 }
 
 #page-wrapper {
